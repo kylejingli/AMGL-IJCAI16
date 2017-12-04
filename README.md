@@ -1,2 +1,3 @@
 # AMGL-IJCAI16
-Source code for the published paper "Parameter-Free Auto-Weighted Multiple Graph Learning" IJCAI 2016
+Source code for the published paper "Parameter-Free Auto-Weighted Multiple Graph Learning" IJCAI 2016.
+Only for academic research.
